@@ -31,6 +31,7 @@ class AppKernel extends Kernel
             new Craue\ConfigBundle\CraueConfigBundle(),
             new Lexik\Bundle\MaintenanceBundle\LexikMaintenanceBundle(),
             new WhiteOctober\PagerfantaBundle\WhiteOctoberPagerfantaBundle(),
+            new FOS\JsRoutingBundle\FOSJsRoutingBundle(),
 
             // wallabag bundles
             new Wallabag\CoreBundle\WallabagCoreBundle(),
