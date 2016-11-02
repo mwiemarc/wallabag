@@ -450,6 +450,7 @@ user:
         repeat_new_password_label: 'Repeat new password'
         plain_password_label: '????'
         email_label: 'Email'
+        group: 'Group'
         enabled_label: 'Enabled'
         locked_label: 'Locked'
         last_login_label: 'Last login'

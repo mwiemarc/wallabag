@@ -450,6 +450,7 @@ user:
         repeat_new_password_label: 'رمز تازه را دوباره بنویسید'
         plain_password_label: '????'
         email_label: 'نشانی ایمیل'
+        # group: 'Group'
         # enabled_label: 'Enabled'
         # locked_label: 'Locked'
         # last_login_label: 'Last login'
