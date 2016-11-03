@@ -1,7 +1,6 @@
 import $ from 'jquery';
-import Mousetrap from 'mousetrap';
-import './shortcuts/main.js';
-import './shortcuts/entry.js';
+import './shortcuts/main';
+import './shortcuts/entry';
 
 function supportsLocalStorage() {
   try {
